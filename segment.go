@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/crdx/panel/internal/util"
+	"crdx.org/panel/internal/util"
 )
 
 type Segment interface {

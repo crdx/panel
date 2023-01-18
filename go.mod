@@ -1,9 +1,9 @@
-module github.com/crdx/panel
+module crdx.org/panel
 
 go 1.19
 
 require (
-	github.com/crdx/assert v1.0.0
+	crdx.org/assert v1.0.2
 	github.com/samber/lo v1.37.0
 )
 

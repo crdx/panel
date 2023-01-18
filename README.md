@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-go install github.com/crdx/panel@latest
+go install crdx.org/panel@latest
 ```
 
 ## Usage

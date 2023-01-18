@@ -3,8 +3,8 @@ package segment
 import (
 	"fmt"
 
-	"github.com/crdx/panel/internal/colour"
-	"github.com/crdx/panel/internal/temperature"
+	"crdx.org/panel/internal/colour"
+	"crdx.org/panel/internal/temperature"
 )
 
 type Temperature struct{}

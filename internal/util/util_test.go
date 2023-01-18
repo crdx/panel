@@ -3,8 +3,8 @@ package util_test
 import (
 	"testing"
 
-	"github.com/crdx/assert"
-	"github.com/crdx/panel/internal/util"
+	"crdx.org/assert"
+	"crdx.org/panel/internal/util"
 )
 
 func TestFormatSf(t *testing.T) {

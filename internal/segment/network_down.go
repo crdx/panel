@@ -1,9 +1,9 @@
 package segment
 
 import (
-	"github.com/crdx/panel/internal/colour"
-	"github.com/crdx/panel/internal/network"
-	"github.com/crdx/panel/internal/util"
+	"crdx.org/panel/internal/colour"
+	"crdx.org/panel/internal/network"
+	"crdx.org/panel/internal/util"
 )
 
 type NetworkDown struct{}

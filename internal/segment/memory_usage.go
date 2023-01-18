@@ -1,9 +1,9 @@
 package segment
 
 import (
-	"github.com/crdx/panel/internal/colour"
-	"github.com/crdx/panel/internal/memory"
-	"github.com/crdx/panel/internal/util"
+	"crdx.org/panel/internal/colour"
+	"crdx.org/panel/internal/memory"
+	"crdx.org/panel/internal/util"
 )
 
 type MemoryUsage struct{}

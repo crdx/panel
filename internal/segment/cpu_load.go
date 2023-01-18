@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/crdx/panel/internal/colour"
-	"github.com/crdx/panel/internal/util"
+	"crdx.org/panel/internal/colour"
+	"crdx.org/panel/internal/util"
 )
 
 type CpuLoad struct{}

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/crdx/panel/internal/segment"
+	"crdx.org/panel/internal/segment"
 )
 
 func main() {

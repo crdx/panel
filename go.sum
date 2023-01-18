@@ -1,5 +1,5 @@
-github.com/crdx/assert v1.0.0 h1:O+8e8T+WsCkoTcc1sivXviM9FdTV2LEsbtC4pcPRqaY=
-github.com/crdx/assert v1.0.0/go.mod h1:qKc8WkXakTUKVZfFhDgX+GZv5BO9W6lj8ad4kCrtpiI=
+crdx.org/assert v1.0.2 h1:8xfKFiGh5jAykD2ZHa34xtS5vA4WK3WZiikZHURS2OY=
+crdx.org/assert v1.0.2/go.mod h1:2l2arhfoQXp28IfNabHlaaKBt3FOl5toxHYZFzh//ZM=
 github.com/samber/lo v1.37.0 h1:XjVcB8g6tgUp8rsPsJ2CvhClfImrpL04YpQHXeHPhRw=
 github.com/samber/lo v1.37.0/go.mod h1:9vaz2O4o8oOnK23pd2TrXufcbdbJIa3b6cstBWKpopA=
 golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 h1:3MTrJm4PyNL9NBqvYDSj3DHl46qQakyfqfWo4jgfaEM=
