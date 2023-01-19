@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"crdx.org/assert"
+	"github.com/stretchr/testify/assert"
 	"crdx.org/panel/internal/util"
 )
 
