@@ -48,7 +48,7 @@ Network traffic from interfaces matching `^(enp|eno|wlp)` summed up from `/proc/
 
 Total system memory usage calculated from `/proc/meminfo` in the same way as `free` does it.
 
-**Unit**: gigabyes to 3 sf and up to 2 dp.
+**Unit**: gigabytes to 3 sf and up to 2 dp.
 
 ## Contributions
 
