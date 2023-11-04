@@ -31,7 +31,6 @@ func FormatBytes(bytes float64, sf int) string {
 // Assumes colour begins with '#' and returns a colour beginning with '#'.
 func AdjustColour(value string, adjustment int) string {
 	i64, err := strconv.ParseInt(value[1:], 16, 32)
-
 	if err != nil {
 		return value
 	}
