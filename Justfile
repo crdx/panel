@@ -1,7 +1,9 @@
+set quiet
+
 [private]
-@help:
+help:
     just --list --unsorted
 
 # run tests
-@test *args:
+test *args:
     go test -cover ./... {{ args }}
