@@ -1,0 +1,9 @@
+linters:
+  presets:
+    - bugs
+    - sql
+    - unused
+  disable:
+    - exhaustive
+    - gosec
+    - noctx
