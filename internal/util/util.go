@@ -2,7 +2,6 @@ package util
 
 import (
 	"fmt"
-	"math"
 	"strconv"
 
 	"github.com/samber/lo"
@@ -23,7 +22,7 @@ func FormatSf(value float64, sf int) string {
 
 // FormatBytes formats bytes as gigabytes to sf significant figures.
 func FormatBytes(bytes float64, sf int) string {
-	return FormatSf(bytes/math.Pow(1024, 3), sf)
+	return FormatSf(bytes/float64(1024*1024*1024), sf)
 }
 
 // AdjustColour adjusts a colour's brightness or darkness.
