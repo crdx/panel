@@ -16,7 +16,7 @@ func Cpu() (float64, error) {
 	var stdout []byte
 	for _, sensor := range sensors {
 		var err error
-		if stdout, err = exec.Command("sensors", sensor).Output(); err == nil {
+		if stdout, err = exec.Command("sensors", sensor).Output(); err == nil { //nolint:gosec // sensor is from a hardcoded slice
 			break
 		}
 	}
