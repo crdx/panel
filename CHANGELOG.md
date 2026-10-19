@@ -1,5 +1,7 @@
 # Changelog
 
+## [Next]
+
 ## [1.0.2] - 2023-01-20
 
 - Fix tests.
